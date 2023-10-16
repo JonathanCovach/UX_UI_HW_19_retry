@@ -1,3 +1,9 @@
 
 console.log("Your index.js file is loaded correctly!");
-javascript
+
+
+<script>
+  $( function() {
+    $( "#tabs" ).tabs();
+  } );
+  </script>
