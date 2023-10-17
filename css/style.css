@@ -12,6 +12,7 @@ header ul {
 header li {
   display: inline-block;
   padding: 0px 5px;
+  color: red;
 }
 header p {
   display: inline-block;
@@ -105,3 +106,5 @@ footer li {
 .content3 {
   grid-area: content3;
 }
+
+
